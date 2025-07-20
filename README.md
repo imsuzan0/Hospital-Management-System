@@ -70,4 +70,4 @@ Compile and run:
 javac HospitalManagement.java
 java HospitalManagement
 ```
-It will automatically create doctors.txt, patients.txt, and appointments.txt if they don't exist.
+It will automatically create patients.txt, and appointments.txt if they don't exist.
