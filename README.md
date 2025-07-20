@@ -65,7 +65,7 @@ Ram Thapa,Dr.Smith,Brain,2025-07-22
 
     Make sure you have Java installed.
 
-    Compile and run:
+Compile and run:
 ```
 javac HospitalManagement.java
 java HospitalManagement
