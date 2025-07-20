@@ -1,0 +1,10 @@
+Dr.John,Heart,15
+Dr.Smith,Neurology,12
+Dr.Ram,Orthopedics,10
+Dr.Shrestha,Dermatology,8
+Dr.Khan,Pediatrics,14
+Dr.Verma,ENT,9
+Dr.Lee,Urology,11
+Dr.Bista,Cardiology,13
+Dr.Tamang,General,7
+Dr.Brown,Ophthalmology,16
