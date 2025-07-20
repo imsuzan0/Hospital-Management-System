@@ -40,13 +40,15 @@ Dr.Rita,Neurology,20
 
 patients.txt
 
-Sita Sharma,28,Female,Kathmandu,9800000001
-Ram Thapa,35,Male,Lalitpur,9800000002
+Sita Sharma,28,Female
+Ram Thapa,35,Male
 
 appointments.txt
 
-Dr.John,Sita Sharma,2025-07-21
-Dr.Smith,Ram Thapa,2025-07-22
+Sita Sharma,Dr.John,Heart,2025-07-21
+Ram Thapa,Dr.Smith,Brain,2025-07-22
+
+```
 
 📦 Technologies Used
 
