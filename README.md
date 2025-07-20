@@ -29,20 +29,23 @@ The system includes three main data files:
 6. Book Appointment
 7. View Appointments
 0. Exit
+```
 
 📄 Sample Data Format
-doctors.txt
-
+doctors.txt(Name,Specialization,Experience):
+```txt
 Dr.John,Heart,15
 Dr.Smith,Dermatology,10
 Dr.Rita,Neurology,20
-
-patients.txt
-
+```
+patients.txt(Name,Age,Gender):
+```txt
 Sita Sharma,28,Female
 Ram Thapa,35,Male
+```
 
-appointments.txt
+appointments.txt(Patient name,Doctor Name,Problem,Appointment Date):
+```txt
 
 Sita Sharma,Dr.John,Heart,2025-07-21
 Ram Thapa,Dr.Smith,Brain,2025-07-22
@@ -50,21 +53,21 @@ Ram Thapa,Dr.Smith,Brain,2025-07-22
 ```
 
 📦 Technologies Used
-
+```
     Java (JDK 17 or higher)
 
     File I/O (Text File Storage)
 
-    OOP Concepts (Classes, Methods)
+    OOP Concepts 
 
     Scanner (for input and file reading)
-
+```
 🚀 How to Run
-
+```
     Clone this repository or download the .java file.
 
     Make sure you have Java installed.
-
+```
 Compile and run:
 ```
 javac HospitalManagement.java
