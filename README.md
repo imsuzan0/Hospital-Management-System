@@ -66,8 +66,8 @@ Ram Thapa,Dr.Smith,Brain,2025-07-22
     Make sure you have Java installed.
 
     Compile and run:
-
+```
 javac HospitalManagement.java
 java HospitalManagement
-
-    It will automatically create doctors.txt, patients.txt, and appointments.txt if they don't exist.
+```
+It will automatically create doctors.txt, patients.txt, and appointments.txt if they don't exist.
