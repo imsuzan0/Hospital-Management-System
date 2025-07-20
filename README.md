@@ -11,7 +11,6 @@ The system includes three main data files:
 
 ## ⚙️ Features
 
-- Add new **Doctor**
 - Add new **Patient**
 - **View** all doctors and patients
 - Check if a **patient exists**
